@@ -1,0 +1,8 @@
+Base earthquake site: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
+Link to data: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+
+Map Center 
+lat = 42.682240
+long = -95.467310
+
+
